@@ -1,3 +1,4 @@
-class person
+class Person
 end
 
+adele_goldberg = 
